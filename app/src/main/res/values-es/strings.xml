@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Horoscope</string>
+
+    <string name="activity_main_title">Zodiaco</string>
+
+    <string name="horoscope_name_aries">Aries</string>
+    <string name="horoscope_name_taurus">Tauro</string>
+    <string name="horoscope_name_gemini">Géminis</string>
+    <string name="horoscope_name_cancer">Cáncer</string>
+    <string name="horoscope_name_leo">Leo</string>
+    <string name="horoscope_name_virgo">Virgo</string>
+    <string name="horoscope_name_libra">Libra</string>
+    <string name="horoscope_name_scorpio">Escorpio</string>
+    <string name="horoscope_name_sagittarius">Sagitario</string>
+    <string name="horoscope_name_capricorn">Capricornio</string>
+    <string name="horoscope_name_aquarius">Acuario</string>
+    <string name="horoscope_name_pisces">Piscis</string>
+
+    <string name="horoscope_date_aries">21 de marzo al 19 de abril</string>
+    <string name="horoscope_date_taurus">20 de abril al 20 de mayo</string>
+    <string name="horoscope_date_gemini">21 de mayo al 20 de junio</string>
+    <string name="horoscope_date_cancer">21 de junio al 22 de julio</string>
+    <string name="horoscope_date_leo">23 de julio al 22 de agosto</string>
+    <string name="horoscope_date_virgo">23 de agosto al 22 de septiembre</string>
+    <string name="horoscope_date_libra">23 de septiembre al 22 de octubre</string>
+    <string name="horoscope_date_scorpio">23 de octubre al 21 de noviembre</string>
+    <string name="horoscope_date_sagittarius">22 de noviembre al 21 de diciembre</string>
+    <string name="horoscope_date_capricorn">22 de diciembre al 19 de enero</string>
+    <string name="horoscope_date_aquarius">20 de enero al 18 de febrero</string>
+    <string name="horoscope_date_pisces">19 de febrero al 20 de marzo</string>
+
+    <string name="horoscope_luck_loading">Consultando con las estrellas…</string>
+
+    <string name="menu_search">Buscar</string>
+    <string name="menu_favorite">Favorito</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_view_mode">Modo vista</string>
+
+    <string name="menu_calendar_daily">Diario</string>
+    <string name="menu_calendar_weekly">Semanal</string>
+    <string name="menu_calendar_monthly">Mensual</string>
+
+</resources>
